@@ -13,7 +13,7 @@ exercises: 2
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Be able to produce a batch of delicious cinnamon rolls
-- Understand how to adjust proofing time
+- Understand how to adjust _proofing_ time
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
